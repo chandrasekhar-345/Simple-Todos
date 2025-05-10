@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Simple Todos** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -120,3 +121,6 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# Simple-Todos
+>>>>>>> 819b6c25ba2d0cda60100e0d293fed67d64128b8
